@@ -9,7 +9,7 @@ A solução foi implementada em **Java**, priorizando **simplicidade, clareza** 
 
 ## Tecnologias Utilizadas
 
-- **Java 17**
+- **Java**
 - **Maven**
 - **jsoup** – raspagem de dados e extração de links
 - Manipulação de arquivos CSV com `BufferedReader` e `BufferedWriter`
