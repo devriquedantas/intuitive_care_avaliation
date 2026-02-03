@@ -1,0 +1,4 @@
+﻿*.csv
+target/
+.idea/
+zipbaixado/
