@@ -62,9 +62,7 @@ Ele contém os dados **consolidados e validados**, referentes às despesas com e
 
 ---
 ## E o restante do projeto?
-As etapas seguintes do desafio não foram implementadas por falta de
-
-conhecimento técnico e tempo para aprofundamento, principalmente nas partes de análise estatística, banco de dados e desenvolvimento de API.
+As etapas seguintes do desafio não foram implementadas por falta de conhecimento técnico e tempo para aprofundamento, principalmente nas partes de análise estatística, banco de dados e desenvolvimento de API.
 Preferi focar em entregar bem essas etapas do que tentar avançar e entregar algo incompleto.
 
 ---
